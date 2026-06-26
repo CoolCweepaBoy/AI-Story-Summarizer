@@ -1,0 +1,157 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "createdAt": "2026-06-17T04:39:27.507Z",
+      "uid": "dev-user-demo-newsroom-ai-com",
+      "email": "demo@newsroom-ai.com"
+    },
+    {
+      "id": 2,
+      "createdAt": "2026-06-17T05:02:27.342Z",
+      "uid": "dev-user-joelramireddy-gmail-com",
+      "email": "joelramireddy@gmail.com"
+    },
+    {
+      "id": 3,
+      "createdAt": "2026-06-18T04:02:17.298Z",
+      "uid": "demo-uid",
+      "email": "demo@newsroom-ai.com"
+    },
+    {
+      "id": 4,
+      "createdAt": "2026-06-18T05:25:09.202Z",
+      "uid": "custom-uid-8ce8f6ba8212f0923cf4c779da0eec3f",
+      "email": "john.tester@example.com",
+      "fullName": "John Tester",
+      "passwordHash": "$2b$10$iWBnZVJuFlbavsvXMH9zseVWyp9oNa5wcQxsEdKobEccbCJjvZk66"
+    },
+    {
+      "id": 5,
+      "createdAt": "2026-06-18T05:27:10.171Z",
+      "uid": "custom-uid-1deacc015704be084778fc32ff5abe78",
+      "email": "john.tester@example.com",
+      "fullName": "John Tester",
+      "passwordHash": "$2b$10$8g50e0rRzj2kBv3tBepdDOXLezSg4Wwgw81uZb.ek6LTKi5HfQa3m"
+    },
+    {
+      "id": 6,
+      "createdAt": "2026-06-18T05:34:50.333Z",
+      "uid": "custom-uid-a48848d7585a90e9f25e480cc0aa6ce0",
+      "email": "test.user@example.com",
+      "fullName": "Test User",
+      "passwordHash": "$2b$10$ewlGM/pv7gLSelw2wkK4.uTDuSYhbU/jRPgqsRwo3vao8SHBHyxaS"
+    },
+    {
+      "id": 7,
+      "createdAt": "2026-06-18T05:42:54.005Z",
+      "uid": "custom-uid-f0ecb47cb86918e49ac975590727bb45",
+      "email": "jonyprasad25@gmail.com",
+      "fullName": "Samuel Ahishek",
+      "passwordHash": "$2b$10$DKFUpkt5mTyYzmrXAZdor.bOw/KV.lF1RTfswVejRh9RfeQOnAKlu"
+    },
+    {
+      "id": 8,
+      "createdAt": "2026-06-26T16:09:26.993Z",
+      "uid": "custom-uid-ad4dc71884a62f44a5370d132dfd00cd",
+      "email": "ashrafkhanar45@gmail.com",
+      "fullName": "Ashraf Khan",
+      "passwordHash": "$2b$10$C4NH075pX0GkNxZbAvTTZu8M0jQRObXGPZpaiV1u.ekKxIBKJ/R1C"
+    }
+  ],
+  "generations": [
+    {
+      "id": 1,
+      "createdAt": "2026-06-18T04:21:41.679Z",
+      "userId": 3,
+      "journalistName": "Ashraf",
+      "category": "Technology",
+      "fullArticle": "The TS RTC is launching electric AC buses between Hyderabad and various cities in Telangana starting next month. The initiative aims to reduce carbon emissions and provide state-of-the-art public transit options to passengers. Minister of Transport confirmed that 50 new buses will be introduced in the first phase.",
+      "summary": "[\"TS RTC will introduce electric AC buses connecting Hyderabad with other Telangana cities starting next month.\",\"This initiative aims to significantly reduce carbon emissions and provide state-of-the-art public transit options.\",\"The first phase will see the deployment of 50 new electric buses, as confirmed by the Minister of Transport.\"]",
+      "pullQuote": "The initiative aims to reduce carbon emissions and provide state-of-the-art public transit options to passengers.",
+      "caption1": "TS RTC is launching 50 electric AC buses next month, connecting Hyderabad with other Telangana cities. This move aims to cut emissions & enhance public transit. #ElectricBuses #Telangana #PublicTransport #GreenMobility",
+      "caption2": "Get ready, Telangana! 🚌⚡️ TS RTC is rolling out 50 brand-new electric AC buses starting next month, connecting Hyderabad to various cities! Say goodbye to pollution and hello to comfortable, eco-friendly rides. Who's excited? 👋 #ElectricBus #SustainableTravel #Hyderabad #TelanganaRTC #GoGreen",
+      "hashtags": "#ElectricBuses,#Telangana,#PublicTransport,#GreenMobility,#SustainableTravel,#Hyderabad,#TSRTC,#EcoFriendly",
+      "rating": null
+    },
+    {
+      "id": 2,
+      "createdAt": "2026-06-18T04:22:57.139Z",
+      "userId": 3,
+      "journalistName": "Ashraf",
+      "category": "Technology",
+      "fullArticle": "The TS RTC is launching electric AC buses between Hyderabad and various cities in Telangana starting next month. The initiative aims to reduce carbon emissions and provide state-of-the-art public transit options to passengers. Minister of Transport confirmed that 50 new buses will be introduced in the first phase.",
+      "summary": "[\"TS RTC is launching new electric AC buses next month, connecting Hyderabad with various cities in Telangana.\",\"The initiative aims to significantly reduce carbon emissions and offer state-of-the-art public transit options.\",\"Fifty new electric buses are confirmed for deployment in the first phase of this sustainable transport endeavor.\"]",
+      "pullQuote": "The initiative aims to reduce carbon emissions and provide state-of-the-art public transit options to passengers.",
+      "caption1": "TS RTC is set to roll out 50 new electric AC buses next month, connecting Hyderabad with other cities in Telangana. This move is part of an effort to reduce carbon emissions and modernize public transport. #TSRTC #ElectricBuses #Telangana #GreenTransit",
+      "caption2": "Big news for Telangana travelers! 🤩 TS RTC is electrifying its fleet with 50 brand new AC buses starting next month! Get ready for a cooler, greener, and more comfortable ride between Hyderabad and other cities. 🚌💨 Who's excited for state-of-the-art public transit? Let us know below! 👇 #Hyderabad #TelanganaTourism #ElectricMobility #PublicTransport #EcoFriendly",
+      "hashtags": "#TSRTC,#ElectricBuses,#Telangana,#PublicTransport,#GreenTransit,#Hyderabad,#SustainableMobility",
+      "rating": null
+    },
+    {
+      "id": 3,
+      "createdAt": "2026-06-18T04:44:27.130Z",
+      "userId": 3,
+      "journalistName": "Ashraf",
+      "category": "Politics",
+      "fullArticle": "The TS RTC is launching electric AC buses between Hyderabad and various cities in Telangana starting next month. The initiative aims to reduce carbon emissions and provide state-of-the-art public transit options to passengers. Minister of Transport confirmed that 50 new buses will be introduced in the first phase.",
+      "summary": "[\"TS RTC is set to launch electric AC buses connecting Hyderabad with various cities in Telangana starting next month.\",\"This initiative aims to significantly reduce carbon emissions and provide modern public transit options for passengers.\",\"The first phase will see the introduction of 50 new electric buses, as confirmed by the Minister of Transport.\"]",
+      "pullQuote": "The initiative aims to reduce carbon emissions and provide state-of-the-art public transit options to passengers.",
+      "caption1": "TS RTC is launching 50 electric AC buses next month to connect Hyderabad with other Telangana cities. This eco-friendly initiative targets reduced carbon emissions and enhanced public transit. #TSRTC #ElectricBuses #Telangana",
+      "caption2": "Get ready for a greener commute! 🥳 TS RTC is rolling out 50 brand new electric AC buses next month, linking Hyderabad with cities across Telangana! 🚌🌿 Enjoy state-of-the-art comfort and help reduce emissions. Who's excited for the upgrade? 👇 #ElectricTransit #GreenCommute #Hyderabad #Telangana",
+      "hashtags": "#TSRTC,#ElectricBuses,#Telangana,#PublicTransport,#GreenInitiative,#Hyderabad,#SustainableTravel",
+      "rating": null
+    },
+    {
+      "id": 4,
+      "createdAt": "2026-06-18T05:00:32.578Z",
+      "userId": 1,
+      "journalistName": "Daniel",
+      "category": "Business",
+      "fullArticle": "Founded in 1978 by Rex Maughan in Tempe, Arizona, Forever Living Products has grown into a multi-billion dollar network marketing company that operates in over 140 countries. As the world's largest grower, manufacturer, and distributor of aloe vera, the company distinguishes itself through a strict system of vertical integration, meaning it entirely owns its massive aloe fields, advanced research facilities, manufacturing plants, and extensive global distribution channels—an operational philosophy summarized by the corporate motto, \"from plant to product to you\". The core of the Forever Living Business Opportunity rests on independent distributors, known as Forever Business Owners (FBOs), who earn a supplemental income stream by purchasing premium wellness products—ranging from aloe drinks and dietary supplements to targeted skincare and weight management programs—at a wholesale discount and reselling them to retail clients for a profit. Beyond direct consumer retail, the business model traditionally incentivizes team building, allowing distributors to sponsor, mentor, and build their own downstream organizations to unlock performance-based bonuses, commissions, and global travel rewards like the Forever Global Rally. However, the business landscape continuously adapts; for instance, the corporate team announced that effective May 1, 2026, Forever Living is evolving its U.S. model away from sponsorship-based compensation into a modern hybrid retail and referral network to comply with tightening regulatory expectations and focus purely on authentic product sales. While this flexible direct-selling framework empowers millions of global distributors to work at their own pace without upfront capital investments, individual financial success remains heavily reliant on personal salesmanship, dedication, and strict adherence to localized ethical business structures.",
+      "summary": "[\"Founded in 1978, Forever Living Products is a multi-billion dollar network marketing company operating in over 140 countries, known as the world's largest grower and distributor of aloe vera.\",\"The company practices strict vertical integration, owning its entire supply chain \\\"from plant to product to you,\\\" with independent distributors selling premium wellness products.\",\"Effective May 2026, Forever Living will shift its U.S. compensation model to a modern hybrid retail and referral network, focusing purely on authentic product sales amid evolving regulations.\"]",
+      "pullQuote": "\"from plant to product to you\"",
+      "caption1": "Forever Living Products, the world's largest aloe vera distributor, founded in 1978, is evolving its U.S. business model. Moving to a hybrid retail & referral network by May 2026, the company reaffirms its focus on authentic product sales. #ForeverLiving #NetworkMarketing #BusinessNews #AloeVera",
+      "caption2": "Ever wondered how Forever Living Products became a global giant? 🌿 From owning their own aloe fields to a major shift in their US business model, this company is always evolving! Dive into their unique \"plant to product to you\" philosophy and what it means for their future. ✨ #ForeverLivingProducts #AloePower #DirectSelling #BusinessEvolution #WellnessJourney",
+      "hashtags": "#ForeverLiving,#AloeVera,#NetworkMarketing,#DirectSelling,#BusinessNews,#VerticalIntegration,#Wellness,#Entrepreneurship",
+      "rating": null
+    },
+    {
+      "id": 5,
+      "createdAt": "2026-06-18T05:46:39.672Z",
+      "userId": 7,
+      "journalistName": "Prasad",
+      "category": "Business",
+      "fullArticle": "Founded in 1978 by Rex Maughan in Tempe, Arizona, Forever Living Products has grown into a multi-billion dollar network marketing company that operates in over 140 countries. As the world's largest grower, manufacturer, and distributor of aloe vera, the company distinguishes itself through a strict system of vertical integration, meaning it entirely owns its massive aloe fields, advanced research facilities, manufacturing plants, and extensive global distribution channels—an operational philosophy summarized by the corporate motto, \"from plant to product to you\". The core of the Forever Living Business Opportunity rests on independent distributors, known as Forever Business Owners (FBOs), who earn a supplemental income stream by purchasing premium wellness products—ranging from aloe drinks and dietary supplements to targeted skincare and weight management programs—at a wholesale discount and reselling them to retail clients for a profit. Beyond direct consumer retail, the business model traditionally incentivizes team building, allowing distributors to sponsor, mentor, and build their own downstream organizations to unlock performance-based bonuses, commissions, and global travel rewards like the Forever Global Rally. However, the business landscape continuously adapts; for instance, the corporate team announced that effective May 1, 2026, Forever Living is evolving its U.S. model away from sponsorship-based compensation into a modern hybrid retail and referral network to comply with tightening regulatory expectations and focus purely on authentic product sales. While this flexible direct-selling framework empowers millions of global distributors to work at their own pace without upfront capital investments, individual financial success remains heavily reliant on personal salesmanship, dedication, and strict adherence to localized ethical business structures.",
+      "summary": "[\"Forever Living Products, founded in 1978, is a multi-billion dollar network marketing company with operations in over 140 countries.\",\"The company stands out as the world's largest vertically integrated aloe vera company, managing its supply chain 'from plant to product to you'.\",\"Effective May 2026, Forever Living is evolving its U.S. business model to a hybrid retail and referral network, moving away from sponsorship-based compensation.\"]",
+      "pullQuote": "Its operational philosophy is summarized by the corporate motto, \"from plant to product to you\".",
+      "caption1": "Forever Living Products, a global leader in aloe vera, is adapting its U.S. business model to a hybrid retail and referral network by 2026. This strategic shift moves away from sponsorship-based compensation to enhance product sales and comply with evolving regulations. #ForeverLiving #BusinessModel #DirectSelling #AloeVera",
+      "caption2": "Big news in the direct selling world! 📢 Forever Living Products is transforming its U.S. business model by May 2026, shifting to a hybrid retail & referral network. They're moving away from sponsorship incentives to focus purely on product sales! 🌱 What do you think this means for the industry? 🤔 #ForeverLiving #BusinessNews #FutureOfRetail #AloeVeraLife #Innovation",
+      "hashtags": "#ForeverLiving,#BusinessModel,#DirectSelling,#AloeVera,#RetailStrategy,#IndustryUpdate,#BusinessNews",
+      "rating": null
+    },
+    {
+      "id": 6,
+      "createdAt": "2026-06-26T16:10:19.092Z",
+      "userId": 8,
+      "journalistName": "Shabby",
+      "category": "Politics",
+      "fullArticle": "Global warming is the long-term, human-driven rise in the Earth's average surface temperature. Primarily caused by burning fossil fuels and deforestation, this phenomenon thickens our atmosphere's invisible \"blanket\" of greenhouse gases, trapping solar heat. This warming leads to severe consequences, including melting glaciers, rising sea levels, and increasingly extreme weather events globally.",
+      "summary": "[\"Global warming, a human-driven rise in Earth's average temperature, is primarily caused by burning fossil fuels and deforestation.\",\"This phenomenon thickens the atmosphere's greenhouse gas \\\"blanket,\\\" trapping solar heat and leading to planetary warming.\",\"Consequences include melting glaciers, rising sea levels, and increasingly extreme weather events worldwide.\"]",
+      "pullQuote": "\"This warming leads to severe consequences, including melting glaciers, rising sea levels, and increasingly extreme weather events globally.\"",
+      "caption1": "Understanding global warming: Driven by human activity like fossil fuel use and deforestation, it's thickening our atmospheric blanket. The consequences are stark: melting glaciers, rising sea levels, and extreme weather. Learn more about its impact. #GlobalWarming #ClimateChange",
+      "caption2": "🔥 Ever wonder what's really heating up our planet? It's us! Our actions, from burning fossil fuels to cutting down trees, are creating a thicker 'blanket' of greenhouse gases. 🌍 The result? Melting ice, rising oceans, and wilder weather everywhere. Let's talk about it! 👇 #ClimateCrisis #EarthScience",
+      "hashtags": "#GlobalWarming,#ClimateChange,#EnvironmentalCrisis,#Sustainability,#ClimateAction,#ExtremeWeather,#SeaLevelRise",
+      "rating": null
+    }
+  ],
+  "sessions": [
+    {
+      "id": 1,
+      "createdAt": "2026-06-26T16:09:27.157Z",
+      "userId": 8,
+      "sessionToken": "c4b4503d5d5466aa7d9a404719a9aab4c84447c33df783af6a9c773ba4d7cfa5",
+      "expiresAt": "2026-07-26T16:09:27.154Z"
+    }
+  ]
+}

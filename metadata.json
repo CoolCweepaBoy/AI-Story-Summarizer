@@ -1,0 +1,6 @@
+{
+  "name": "AI Story Summarizer for Social Media Cards",
+  "description": "Automated newsroom SaaS platform converting articles into social media cards, summaries, pull quotes, and hashtags utilizing Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
